@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0bx0)](https://github.com/0bx0/github-readme-stats)
 
 <!--
 **0bx0/0bx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
