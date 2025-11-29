@@ -21,40 +21,20 @@
 
 
 ### Robotics & Embedded Systems | BITS Pilani Goa
+I’m an undergraduate in EEE + Biological Sciences at BITS Pilani Goa, and most of what I build lives on real hardware. My projects are a mix of robotics, embedded systems, and small experimental tools I throw on GitHub for quality of life. If there's something that can be automated, I will automate it.
 
-I build software that runs on physical hardware. My work sits at the intersection of robotics, embedded systems, and applied machine intelligence. I focus on perception pipelines, autonomous navigation, and systems that have to make decisions under real-world constraints like noisy sensors and limited compute.
+Recently, I’ve been working on autonomous navigation and perception:
 
----
+- Built a Jetson-powered perception stack using YOLO11 for detecting environmental features in real time on low-power hardware.  
+- Wrote Python drivers to interface LIDAR and camera modules for autonomous decision-making.  
+- Managed embedded Linux deployments and scripted telemetry + reliability tooling. 
+- Working on GPS-independent UGV navigation that combines SLAM and deep learning for mapping and decisions.
+  
+Outside robotics, I occasionally publish small utilities or experiments:
+- A mess-menu PWA for BITS Goa with offline support and automated Python-based deployment. 
+- UI/UX design work for institute fest apps.
+- Random scripts, prototypes.
 
-## 🔧 Tech Stack
+Before all this, I spent two years doing QA for Opera GX—finding UI bugs, edge cases, and performance issues and writing structured technical reports for the engineering team. 
 
-### Robotics & Embedded
-- ROS2 (rclpy)
-- Embedded Linux 
-- Jetson Orin
-- Computer Vision (OpenCV)
-
-### Software & Backend
-- Python (Flask)
-- Node.js (Express)
-
-### Frontend
-- React
-- HTML, CSS, JS
-
-### DevOps & Infra
-- Docker
-- CI/CD with GitHub Actions
-
----
-
-## 🚀 Current Focus
-- Deepening expertise in robotics autonomy and embedded AI pipelines
-- Building reliable, deployable systems 
-
----
-
-## 📫 Connect
-- **LinkedIn:** https://linkedin.com/in/ghosh-d-debraj  
-- **Email:** debraj.d.ghosh@gmail.com
-
+Most of my stuff here is messy and cluttered, I push random stuff I made without expecting anything.
