@@ -1,6 +1,4 @@
-# Hi there 👋 I'm Debraj
-
-## 🧰 Tech Stack
+# Yello, I'm Debraj.
 
 <p align="center">
   <!-- Robotics & Embedded -->
